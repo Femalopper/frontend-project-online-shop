@@ -246,7 +246,7 @@ legend {
   width: 160px;
   height: 20px;
   text-indent: -9999em;
-  background: url(img/134.gif);
+  background: url(../../img/134.gif);
 }
 
 .nav {
@@ -790,7 +790,7 @@ address a {
     left: 27%;
     display: none;
     text-indent: -9999em;
-    background: url(img/134.gif);
+    background: url(../../img/134.gif);
   }
 
   .nav {
@@ -938,7 +938,7 @@ address a {
     display: none;
     width: 16%;
     text-indent: -9999em;
-    background: url(img/134.gif);
+    background: url(../../img/134.gif);
   }
 
   ul.mainNav {

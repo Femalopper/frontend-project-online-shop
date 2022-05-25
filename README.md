@@ -8,7 +8,7 @@ git clone git@github.com:Femalopper/frontend-project-online-shop.git
 
 ## Description
 
-Demonstration of adaptive and responsive online shop site made manually with the usage of additional instruments such as jquery library, smartbasket and sweetalert2 scripts.
+Demonstration of adaptive and responsive online shop with the usage of additional instruments such as jquery library, smartbasket and sweetalert2 scripts.
 
 ## Animation
 
